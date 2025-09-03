@@ -61,7 +61,7 @@ An AI-powered full-body workout assistant that leverages **Computer Vision**, **
 
 ### 🔧 Installation
 ``` 
-git clone To https://github.com/Abhi0804-M/AI-Fitness-Trainer.git
+git clone https://github.com/Abhi0804-M/AI-Fitness-Trainer.git
 cd AI_FITNESS_TRAINER
 pip install -r requirements.txt
  ```
